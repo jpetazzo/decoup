@@ -1,0 +1,26 @@
+lisa-1.mov 100
+519.3 537.5 requirements
+601.5 610.6 requirements
+665.3 676.7 requirements
+772.8 840.0 using play with docker
+955.6 980.0 using play with docker
+980.6 1036.8 ssh tmux and more
+1125.5 1456.2 presentation of dockercoins
+1457.2 2002.1 running dockercoins
+2003.3 2229.9 scaling up with compose
+2232.8 2469.9 identifying bottlenecks
+2479.8 3241.8 introducing swarmkit
+3243.0 3492.5 adding a node with SSH
+3497.1 4029.8 adding a node with the API and Machine
+4033.7 4260.8 swarm init under the hood
+4288.0 4324.0 swarm init under the hood
+4332.7 4455.0 adding more managers
+4568.5 4598.5 promoting nodes
+4620.0 5031.6 how many managers do I need
+5043.1 5248.5 creating our first service
+5260.6 5387.9 scaling our first service
+5390.9 5439.0 exposing a service
+5574.8 5689.2 exposing a service
+5696.4 5950.6 docker service create under the hood
+5955.7 6137.2 exposing a service
+

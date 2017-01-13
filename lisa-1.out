@@ -1,0 +1,20 @@
+$ ls -l lisa-1.mov 1*.mov
+-rw-r--r--@ 1 jp  staff  2334195296 Dec  6 09:43 lisa-1.mov
+-rw-r--r--  1 jp  staff     7806154 Jan 12 16:47 101 - requirements.mov
+-rw-r--r--  1 jp  staff    22810938 Jan 12 16:47 102 - using play with docker.mov
+-rw-r--r--  1 jp  staff    14683838 Jan 12 16:47 103 - ssh tmux and more.mov
+-rw-r--r--  1 jp  staff    91873930 Jan 12 16:47 104 - presentation of dockercoins.mov
+-rw-r--r--  1 jp  staff   345694782 Jan 12 16:47 105 - running dockercoins.mov
+-rw-r--r--  1 jp  staff   140214821 Jan 12 16:47 106 - scaling up with compose.mov
+-rw-r--r--  1 jp  staff    95188065 Jan 12 16:47 107 - identifying bottlenecks.mov
+-rw-r--r--  1 jp  staff   235201223 Jan 12 16:47 108 - introducing swarmkit.mov
+-rw-r--r--  1 jp  staff   118887320 Jan 12 16:47 109 - adding a node with SSH.mov
+-rw-r--r--  1 jp  staff   276076559 Jan 12 16:48 110 - adding a node with the API and Machine.mov
+-rw-r--r--  1 jp  staff    97965662 Jan 12 16:48 111 - swarm init under the hood.mov
+-rw-r--r--  1 jp  staff    86220108 Jan 12 16:48 112 - adding more managers.mov
+-rw-r--r--  1 jp  staff    19308885 Jan 12 16:48 113 - promoting nodes.mov
+-rw-r--r--  1 jp  staff   103027546 Jan 12 16:48 114 - how many managers do I need.mov
+-rw-r--r--  1 jp  staff    81500331 Jan 12 16:48 115 - creating our first service.mov
+-rw-r--r--  1 jp  staff    71125403 Jan 12 16:48 116 - scaling our first service.mov
+-rw-r--r--  1 jp  staff   122811001 Jan 12 16:48 117 - exposing a service.mov
+-rw-r--r--  1 jp  staff    48440446 Jan 12 16:48 118 - docker service create under the hood.mov
